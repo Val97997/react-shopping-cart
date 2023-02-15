@@ -1,0 +1,28 @@
+{
+    "products" : [
+        {"_id" : "item 1",
+         "title" : "Fjallraven-Foldsack No.1",
+         "image":"/images/item1.jpg" , "description":"Your perfect pack for everyday use",
+         "price":109.95,
+         "colors": ["red", "blue"]
+        },
+        {"_id" : "item 2",
+        "title" : "Mens casual Premium Slim T-Shirt",
+        "image":"/images/item2.jpg" , "description":"Slim-fitting style, contrast raglan long sleeve",
+        "price":22.30,
+        "colors": ["red", "blue"]
+       },
+       {"_id" : "item 3",
+         "title" : "Mens Cotton Jacket",
+         "image":"/images/item3.jpg" , "description":"Great outwear jacket",
+         "price":150.95,
+         "colors": ["red", "blue"]
+        },
+        {"_id" : "item 4",
+         "title" : "Mens Casual Slim Fit",
+         "image":"/images/item4.jpg" , "description":"The color should be slightly different",
+         "price":15.99,
+         "colors": ["red", "blue"]
+        }
+    ]
+}
