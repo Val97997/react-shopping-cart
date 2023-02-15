@@ -75,6 +75,8 @@ footer{
     height: 47rem;
     padding: 1rem;
     margin: 1rem;
+    max-width: 47rem;
+    text-align: center;
   }
   .product{
     display: flex;
@@ -108,4 +110,15 @@ footer{
   }
   .button:hover{
     border: 0.1rem blue solid;
+  }
+
+  .filter{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+    border-bottom: 0.1rem solid #c0c0c0;
+  }
+  .filter div{
+    flex: 1;
   }
