@@ -179,3 +179,24 @@ footer{
     padding: 1rem;
     border: .1rem solid #c0c0c0;
   }
+  .product-details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-height: 96vh;
+  }
+  .product-details img{
+    max-width: 46rem;
+    max-height: 100vh;
+    margin: 0 auto;
+  }
+  .product-details-description{
+    flex: 1 1;
+    margin: 1rem;
+  }
+  .close-modal{
+    position: absolute;
+    right: 1rem;
+    top:2.5rem;
+    z-index: 12;
+  }
